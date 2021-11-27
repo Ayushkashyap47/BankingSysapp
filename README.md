@@ -6,7 +6,7 @@ All Bank related models in one place 🎉
 http://bsapp.c1.biz/
 
 Here's the preview :
-![App](screencapture-bsapp-c1-biz-2021-11-27-20_35_41.png)
+![App](images/screencapture-bsapp-c1-biz-2021-11-27-20_35_41.png)
 
 ### Problem Statements:
 - Term Deposit : There has been a revenue decline for a bank and they would like to know what actions to take. After investigation, they found out that the root cause is that their clients are not depositing as frequently as before. Knowing that term deposits allow banks to hold onto a deposit for a specific amount of time, so banks can invest in higher gain financial products to make a profit. In addition, banks also hold better chance to persuade term deposit clients into buying other products such as funds or insurance to further increase their revenues. As a result, the bank would like to identify existing clients that have higher chance to subscribe for a term deposit and focus marketing efforts on such clients.
@@ -15,7 +15,10 @@ Here's the preview :
 - Customer Segmentation For Banks : In this project extensive data on the bank's customers for the past 6 months has been provided . Data includes transactions frequency, amount, tenure..etc. The bank marketing team would like to leverage AL/ML to launch a targeted marketing ad campaign that is tailored to specific group of customers. In order for this campaign to be successful, the bank has to divide its customers into distinctive groups. This process is known as "marketing segmentation" and it crucial for maximizing marketing campaign conversion rate.
 
 ## Projects Preview
-
+![Term Deposit](images/screencapture-term-deposit-herokuapp-2021-11-27-21_26_16.png)
+![Loan Prediction](images/screencapture-bank-loan5-herokuapp-2021-11-27-21_30_09.png)
+![Credit Card Defaulter](images/screencapture-creditcarddeafaultpredictor-herokuapp-2021-11-27-21_30_44.png)
+![Customer Segmentation](images/screencapture-customer-segmentation23-herokuapp-2021-11-27-21_34_58.png)
 
 ## Steps followed
 
