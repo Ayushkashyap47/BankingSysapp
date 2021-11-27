@@ -14,6 +14,8 @@ Here's the preview :
 - Credit Card Defaulter - This project aimed at the case of customers default payments and compares the predictive accuracy of probability of default. From the perspective of risk management, the result of predictive accuracy of the estimated probability of default will be more valuable than the binary result of classification - credible or not credible clients. Because the real probability of default is unknown. The model predicts the probabily of default for the customer.
 - Customer Segmentation For Banks : In this project extensive data on the bank's customers for the past 6 months has been provided . Data includes transactions frequency, amount, tenure..etc. The bank marketing team would like to leverage AL/ML to launch a targeted marketing ad campaign that is tailored to specific group of customers. In order for this campaign to be successful, the bank has to divide its customers into distinctive groups. This process is known as "marketing segmentation" and it crucial for maximizing marketing campaign conversion rate.
 
+## Projects Preview
+
 
 ## Steps followed
 
