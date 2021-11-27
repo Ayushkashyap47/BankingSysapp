@@ -15,10 +15,11 @@ Here's the preview :
 - Customer Segmentation For Banks : In this project extensive data on the bank's customers for the past 6 months has been provided . Data includes transactions frequency, amount, tenure..etc. The bank marketing team would like to leverage AL/ML to launch a targeted marketing ad campaign that is tailored to specific group of customers. In order for this campaign to be successful, the bank has to divide its customers into distinctive groups. This process is known as "marketing segmentation" and it crucial for maximizing marketing campaign conversion rate.
 
 ## Projects Preview
-![Term Deposit](images/screencapture-term-deposit-herokuapp-2021-11-27-21_26_16.png)
-![Loan Prediction](images/screencapture-bank-loan5-herokuapp-2021-11-27-21_30_09.png)
-![Credit Card Defaulter](images/screencapture-creditcarddeafaultpredictor-herokuapp-2021-11-27-21_30_44.png)
-![Customer Segmentation](images/screencapture-customer-segmentation23-herokuapp-2021-11-27-21_34_58.png)
+<image src=images/screencapture-term-deposit-herokuapp-2021-11-27-21_26_16.png width="600" height="600">
+<image src=images/screencapture-bank-loan5-herokuapp-2021-11-27-21_30_09.png width="600" height="600">
+<image src=images/screencapture-creditcarddeafaultpredictor-herokuapp-2021-11-27-21_30_44.png width="600" height="600">
+<image src=images/screencapture-customer-segmentation23-herokuapp-2021-11-27-21_34_58.png width="600" height="600">   
+
 
 ## Steps followed
 
