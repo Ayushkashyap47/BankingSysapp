@@ -1,1 +1,1 @@
-This is the Term Deposit project 🏦
+This is the Term Deposit project 💰
