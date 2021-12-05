@@ -1,1 +1,1 @@
-This is the term deposit project
+This is the Term Deposit project 🏦
